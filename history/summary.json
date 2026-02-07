@@ -4,17 +4,17 @@
     "url": "https://nijicollage.xyz/category/%e5%89%a5%e3%81%8e%e3%82%b3%e3%83%a9/",
     "icon": "https://icons.duckduckgo.com/ip3/nijicollage.xyz.ico",
     "slug": "https-nijicollage-xyz-category-e5-89-a5-e3-81-8e-e3-82-b3-e3-83-a9",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 951,
-    "timeDay": 903,
-    "timeWeek": 1455,
-    "timeMonth": 965,
-    "timeYear": 967,
+    "time": 950,
+    "timeDay": 572,
+    "timeWeek": 1303,
+    "timeMonth": 943,
+    "timeYear": 965,
     "dailyMinutesDown": {}
   }
 ]
